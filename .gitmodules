@@ -1,0 +1,15 @@
+[submodule "express-inertia"]
+	path = express-inertia
+	url = git@github.com:alex-j-b/express-inertia.git
+[submodule "fastify-inertiajs"]
+	path = fastify-inertiajs
+	url = git@github.com:alex-j-b/fastify-inertia.git
+[submodule "node-inertiajs"]
+	path = node-inertiajs
+	url = git@github.com:alex-j-b/node-inertiajs.git
+[submodule "express-inertia-react"]
+	path = express-inertia-react
+	url = git@github.com:alex-j-b/express-inertia-react.git
+[submodule "fastify-inertia-react"]
+	path = fastify-inertia-react
+	url = git@github.com:alex-j-b/fastify-inertia-react.git
